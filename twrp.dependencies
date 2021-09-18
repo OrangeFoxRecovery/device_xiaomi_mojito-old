@@ -4,5 +4,11 @@
     "repository":  "PixelExperience-Devices/kernel_xiaomi_mojito",
     "target_path": "kernel/xiaomi/mojito",
     "branch":      "eleven"
+  },
+  {
+    "remote":       "github",
+    "repository":   "LineageOS/android_vendor_qcom_opensource_vibrator",
+    "target_path":  "vendor/qcom/opensource/vibrator",
+    "branch":       "lineage-18.1"
   }
 ]
