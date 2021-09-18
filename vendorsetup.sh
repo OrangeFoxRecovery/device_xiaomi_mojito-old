@@ -79,6 +79,11 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	export OF_CLOCK_POS=1
 	export OF_HIDE_NOTCH=1
 	export OF_ALLOW_DISABLE_NAVBAR=0
+	
+	# R11.1 Settings
+	export FOX_VERSION="R11.1"
+	export OF_MAINTAINER="Sushrut1101"
+	export FOX_BUILD_TYPE="Beta"
 
 	# Maximum Permissible Splash Image Size (in kilobytes); Do *NOT* Increase!
 	export OF_SPLASH_MAX_SIZE=104
