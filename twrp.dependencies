@@ -3,24 +3,24 @@
     "remote":      "github",
     "repository":  "PixelExperience-Devices/kernel_xiaomi_mojito",
     "target_path": "kernel/xiaomi/mojito",
-    "branch":      "eleven"
+    "revision":      "eleven"
   },
   {
     "remote":       "github",
     "repository":   "LineageOS/android_vendor_qcom_opensource_vibrator",
     "target_path":  "vendor/qcom/opensource/vibrator",
-    "branch":       "lineage-18.1"
+    "revision":       "lineage-18.1"
   },
   {
     "remote":       "TeamWin",
     "repository":   "android_device_qcom_common",
     "target_path":  "device/qcom/common",
-    "branch":       "android-11"
+    "revision":       "android-11"
   },
   {
     "remote":       "TeamWin",
     "repository":   "android_device_qcom_twrp-common",
     "target_path":  "device/qcom/twrp-common",
-    "branch":       "android-11"
+    "revision":       "android-11"
   }
 ]
